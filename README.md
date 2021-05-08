@@ -56,3 +56,11 @@
 - 원격 레포지토리와 로컬 레포지토리를 연결해줌
 
 
+![image](https://user-images.githubusercontent.com/76541903/117543340-5a62cd80-b057-11eb-98ee-cc6d39bc1916.png)
+
+<br><br>
+
+### push
+- commit한 변경사항을 원격 레포지토리에 push함
+- push -u origin master : master branch를 생성하고 여기에 push하라는 명령어
+
