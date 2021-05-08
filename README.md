@@ -73,5 +73,13 @@
 - 이미 만들어놓은 원격 레포지토리가 있고, 그 곳에 소스들이 존재한다면 원격 레포지토리를 clone하여 로컬 레포지토리에 동기화 가능함
 - clone 원격 레포지토리 링크
 
+
+![image](https://user-images.githubusercontent.com/76541903/117543530-318f0800-b058-11eb-96a5-c64accefe47b.png)
+
 <br><br>
 
+### branch 및 checkout
+- branch branch name : 저장소의 branch name으로 branch 생성
+- branch : branch 목록을 확인
+- checkout branch name : 다른 브랜치로 전환
+- git checkout -b branch name : branch 생성
