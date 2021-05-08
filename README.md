@@ -83,3 +83,11 @@
 - branch : branch 목록을 확인
 - checkout branch name : 다른 브랜치로 전환
 - git checkout -b branch name : branch 생성
+
+
+![image](https://user-images.githubusercontent.com/76541903/117543684-d01b6900-b058-11eb-8751-98a275e38284.png)
+
+
+<br><br><br><br><br><br><br>
+
+
