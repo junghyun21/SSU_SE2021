@@ -39,4 +39,13 @@
 - 즉, staging Area로 이동함
 
 
+![image](https://user-images.githubusercontent.com/76541903/117543185-b416c800-b056-11eb-807c-4120841fca48.png)
+
+<br><br>
+
+### commit
+- 지금까지의 변경사항을 로컬 레포지토리로 이동시킴
+- commit -m "message" : 지금까지의 변경사항을 commit하고 commit message를 남김
+
+
 
