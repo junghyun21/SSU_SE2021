@@ -48,4 +48,11 @@
 - commit -m "message" : 지금까지의 변경사항을 commit하고 commit message를 남김
 
 
+![image](https://user-images.githubusercontent.com/76541903/117543281-15d73200-b057-11eb-98f8-f3e846bbbe28.png)
+
+<br><br>
+
+### remote
+- 원격 레포지토리와 로컬 레포지토리를 연결해줌
+
 
