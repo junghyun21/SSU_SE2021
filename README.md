@@ -64,3 +64,14 @@
 - commit한 변경사항을 원격 레포지토리에 push함
 - push -u origin master : master branch를 생성하고 여기에 push하라는 명령어
 
+
+![image](https://user-images.githubusercontent.com/76541903/117543418-bc233780-b057-11eb-9395-a24f158b33aa.png)
+
+<br><br>
+
+### clone
+- 이미 만들어놓은 원격 레포지토리가 있고, 그 곳에 소스들이 존재한다면 원격 레포지토리를 clone하여 로컬 레포지토리에 동기화 가능함
+- clone 원격 레포지토리 링크
+
+<br><br>
+
